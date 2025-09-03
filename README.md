@@ -2,6 +2,7 @@
 Projects to show my skills in the role of Data Analytics.
 
 1) Global Freelances Project
+   //
    This project focuses on braking down 1000 freelancers at a freelance marketplace website to review key skills for each primary skill. The goal     was to transform raw data into actionable insights using Excel’s advanced functionalities.
 
    Key Skills Demonstrated:
